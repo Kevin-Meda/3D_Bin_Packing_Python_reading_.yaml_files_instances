@@ -1,4 +1,4 @@
-# 3D Bin Packing Python reading .yaml Instances Greedy BestFit Approach
+# 3D Bin Packing Python reading .yaml Instances Greedy BestFit
 3D Bin Packing based on enzoruiz / 3dbinpacking and djkim9031 / 3dBinPacking
 Project based on Enzo Ruiz library and the improved version from djkim9031 https://github.com/djkim9031/3dBinPacking
 3d Bin Packing - Currently focusing primarily on 3D-Knapsack problem in packing 
