@@ -1,4 +1,4 @@
-# 3D_Bin_Packing_Reading_yaml_files_with_instances
+# 3D-Bin-Packing-reading-.yaml-instances
 3D Bin Packing based on enzoruiz / 3dbinpacking and djkim9031 / 3dBinPacking
 Project based on Enzo Ruiz library and the improved version from djkim9031 https://github.com/djkim9031/3dBinPacking
 3d Bin Packing - Currently focusing primarily on 3D-Knapsack problem in packing 
