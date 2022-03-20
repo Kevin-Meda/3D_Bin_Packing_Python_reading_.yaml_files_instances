@@ -2,6 +2,8 @@
 
 # 3D Bin Packing Python reading .yaml Instances Greedy BestFit
 
+### Final Predictions
+![alt text](https://github.com/Kevin-Meda/3D_Bin_Packing_Python_reading_.yaml_files_instances/blob/main/Capture.JPG)
 
 3D Bin Packing based on enzoruiz / 3dbinpacking and djkim9031 / 3dBinPacking
 Project based on Enzo Ruiz library and the improved version from djkim9031 https://github.com/djkim9031/3dBinPacking
