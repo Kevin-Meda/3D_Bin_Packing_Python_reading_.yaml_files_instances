@@ -1,5 +1,4 @@
-# Algorithm to generate a 3 dimensional Packing of Boxes in a container, with constraints as full stability underneath and having a yaml file as Input
-# which specifies the sizes and number of boxes and size of container 
+# Algorithm to generate a 3 dimensional Packing of Boxes in a container, with constraints as full stability underneath and having a yaml file as Input which specifies the sizes and number of boxes and size of container 
 
 # 3D Bin Packing Python reading .yaml Instances Greedy BestFit
 
