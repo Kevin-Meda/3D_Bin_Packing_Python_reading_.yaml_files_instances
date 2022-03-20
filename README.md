@@ -1,4 +1,9 @@
+# Algorithm to generate a 3 dimensional Packing of Boxes in a container, with constraints as full stability underneath and having a yaml file as Input
+# which specifies the sizes and number of boxes and size of container 
+
 # 3D Bin Packing Python reading .yaml Instances Greedy BestFit
+
+
 3D Bin Packing based on enzoruiz / 3dbinpacking and djkim9031 / 3dBinPacking
 Project based on Enzo Ruiz library and the improved version from djkim9031 https://github.com/djkim9031/3dBinPacking
 3d Bin Packing - Currently focusing primarily on 3D-Knapsack problem in packing 
